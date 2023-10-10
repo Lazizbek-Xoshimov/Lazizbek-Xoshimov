@@ -1,4 +1,4 @@
-### Hi there, I am LAzizbek👋 
+### Hi there, I am Lazizbek👋 
 
 ### I'm a Software Engineer.
  
