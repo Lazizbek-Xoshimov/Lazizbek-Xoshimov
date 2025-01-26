@@ -6,7 +6,7 @@
 
 - 🧭 My specialty: `.net`, `asp.net`, `postgresql`
 - 💻 My programming languages: `.cs`
-- 📫 How to reach me: [telegram](https://t.me/Lazizbek_Xoshimov) 
+- 📫 How to reach me: [telegram](https://t.me/itsaxionn) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
